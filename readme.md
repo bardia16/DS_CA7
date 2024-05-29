@@ -1,1 +1,1 @@
-
+The repository dedicated to the Data Science course includes a comprehensive collection of CA7 resources, offering a wide range of materials, tutorials, and resources to get started with Large Language Models (LLMs).
